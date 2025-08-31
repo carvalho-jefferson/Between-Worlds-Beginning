@@ -6,6 +6,8 @@ Leia em [🇺🇸 Inglês](README.md)
 
 "Between Worlds: Beginning" é um empolgante jogo de tiro 2D no espaço, onde você navega sua nave por entre inimigos hostis e fases desafiadoras. Sobreviva às ondas de ataques, evite os tiros inimigos e tente alcançar a maior pontuação enquanto avança por níveis cada vez mais difíceis. Você está pronto para entrar na batalha entre mundos?
 
+> Este jogo foi desenvolvido como um projeto para o meu curso de graduação em Análise e Desenvolvimento de Sistemas, como parte da matéria de Linguagem de Programação Aplicada. O objetivo era criar um jogo 2D usando Python e Pygame, aplicando os conceitos de programação aprendidos durante o curso.
+
 ## Como jogar 🎮
 
 - Use ← e → para mover a nave espacial.
@@ -65,7 +67,7 @@ pip install -r requirements.txt
 
 ## Créditos
 
-Gostaria de agradecer sinceramente a todos os artistas que disponibilizaram suas obras publicamente, o que tornou este projeto possível. 🙂
+Gostaria de agradecer a todos os artistas que disponibilizaram suas obras publicamente, o que tornou este projeto possível. 🙂
 
 - Desenvolvedor do jogo: [Jefferson Carvalho](https://github.com/carvalho-jefferson)
 - Imagens de fundo: [Jeremy Perkins](https://unsplash.com/pt-br/fotografias/noite-estrelada-FsK54FVNRfM), [Screaming Brain Studios](https://screamingbrainstudios.itch.io/seamless-space-backgrounds), [Andrei Castanha](https://unsplash.com/pt-br/ilustra%C3%A7%C3%B5es/gradiente-abstrato-de-cores-quentes-NT5iRPa3v4k)
