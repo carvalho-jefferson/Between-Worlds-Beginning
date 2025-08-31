@@ -6,6 +6,8 @@ Read this in [🇧🇷 Portuguese](README-pt.md)
 
 "Between Worlds: Beginning" is an exciting 2D space shooter where you navigate your spaceship through hostile enemies and challenging phases. Survive waves of attacks, avoid enemy fire, and aim for the highest score as you progress through increasingly difficult levels. Are you ready to enter the battle between worlds?
 
+> This game was developed as a course project for my undergraduate program in Analysis and Systems Development (ADS), as part of the Applied Programming Languages subject. The objective was to create a playable 2D game using Python and Pygame, applying the programming concepts learned during the course.
+
 ## How to Play 🎮
 
 - Use **← and →** to move the spaceship.
