@@ -28,7 +28,7 @@ Read this in [🇧🇷 Portuguese](README-pt.md)
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/between-worlds-beginning.git
+git clone https://github.com/carvalho-jefferson/between-worlds-beginning.git
 ```
 
 2. Enter the project folder:
