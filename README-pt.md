@@ -73,4 +73,4 @@ Gostaria de agradecer a todos os artistas que disponibilizaram suas obras public
 - Imagens de fundo: [Jeremy Perkins](https://unsplash.com/pt-br/fotografias/noite-estrelada-FsK54FVNRfM), [Screaming Brain Studios](https://screamingbrainstudios.itch.io/seamless-space-backgrounds), [Andrei Castanha](https://unsplash.com/pt-br/ilustra%C3%A7%C3%B5es/gradiente-abstrato-de-cores-quentes-NT5iRPa3v4k)
 - Sprites de jogador/inimigo: [Foozle](https://foozlecc.itch.io/void-main-ship), [gishadev](https://gisha.itch.io/spaceships-asset-pack), [ScratchBattles](https://squaremeapixel.itch.io/space-pack)
 - Fonte: Orbitron (Google Fonts)
-- Sons: [cynicmusic.com](https://opengameart.org/content/enchanted-tiki-86), [Unknown](opengameart.org/content/tower-defense-theme), [Unknown](opengameart.org/content/let-the-games-begin-0)
+- Sons: [cynicmusic.com](https://opengameart.org/content/enchanted-tiki-86), [Unknown](https://opengameart.org/content/tower-defense-theme), [Unknown](https://opengameart.org/content/let-the-games-begin-0)
