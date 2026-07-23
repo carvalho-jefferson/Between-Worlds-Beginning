@@ -8,7 +8,7 @@ Read this in [🇧🇷 Portuguese](README-pt.md)
 
 > This game was developed as a course project for my undergraduate program in Analysis and Systems Development, as part of the Applied Programming Languages subject. The objective was to create a playable 2D game using Python and Pygame, applying the programming concepts learned during the course.
 
-⬇️ [Baixar para Windows](https://github.com/carvalho-jefferson/between-worlds-beginning/releases/latest)
+⬇️ [Download for Windows](https://github.com/carvalho-jefferson/between-worlds-beginning/releases/latest)
 
 ## How to Play 🎮
 
