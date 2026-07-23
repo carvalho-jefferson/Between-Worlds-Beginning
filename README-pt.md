@@ -8,6 +8,8 @@ Leia em [🇺🇸 Inglês](README.md)
 
 > Este jogo foi desenvolvido como um projeto para o meu curso de graduação em Análise e Desenvolvimento de Sistemas, como parte da matéria de Linguagem de Programação Aplicada. O objetivo era criar um jogo 2D usando Python e Pygame, aplicando os conceitos de programação aprendidos durante o curso.
 
+⬇️ [Baixar para Windows](https://github.com/carvalho-jefferson/between-worlds-beginning/releases/latest)
+
 ## Como jogar 🎮
 
 - Use ← e → para mover a nave espacial.
